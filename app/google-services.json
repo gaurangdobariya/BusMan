@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "259033873327",
+    "firebase_url": "https://busman-b123.firebaseio.com",
+    "project_id": "busman-b123",
+    "storage_bucket": "busman-b123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259033873327:android:e52aedf26002e976",
+        "android_client_info": {
+          "package_name": "com.busman.busman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259033873327-v7k1r7v70sjsk63dnit102tmqca7m5oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.busman.busman",
+            "certificate_hash": "9896102db830f251ebb3da8354b25e099ab386a3"
+          }
+        },
+        {
+          "client_id": "259033873327-m5r67eku4k792ghsj9g40jn9n3l52fhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARouiln0AtjvUCK3_QmMiSR0JJHIymTOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259033873327-m5r67eku4k792ghsj9g40jn9n3l52fhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
